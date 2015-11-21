@@ -1,7 +1,6 @@
-# Quick Scraping
+# Easy Scraping
 
 Demo of some high level Python scraping interface.
-
 
 Usage:
 
